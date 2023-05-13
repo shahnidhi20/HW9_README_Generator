@@ -12,7 +12,7 @@ const questions = [
   },
   {
     type: "input",
-    message: "Describe in one line the description of the project",
+    message: "Describe in one line the description of the project: ",
     name: "projDesc",
   },
   {
