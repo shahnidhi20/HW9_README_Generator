@@ -1,4 +1,4 @@
-<h1 align="center">README.md Generator Using Node.js 👋</h1>
+<h1 align="center">README.md Generator Using Node.js </h1>
    
 ## Description
   
@@ -6,7 +6,7 @@
   
 💻 Below is the gif showing the functionality of the application:
   
-![README-GENERATOR](./images/HW9_README_GENERATOR%20(1).gif)
+![README-GENERATOR](./images/HW9_README_GENERATOR.gif)
   
 The full movie file showing functionality of the application can be found [here](./video/HW9_README_GENERATOR.webm)  
   
@@ -52,7 +52,7 @@ THEN I am taken to the corresponding section of the README
 
 `npm init`
 
-`npm install inquirer`
+`npm install inquirer@8.2.4`
 
 ## Usage
 
